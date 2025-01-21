@@ -373,9 +373,12 @@ tasks.json
 # Files
 config.lua
 config_canary.lua
+# Dodano plik z lokalnymi ustawieniami config.lua.local  
+config.lua.local  
 client_assertions.txt
 .env
 data-otservbr-global/world/otservbr.otbm
+
 
 # Extensions
 *.ini
